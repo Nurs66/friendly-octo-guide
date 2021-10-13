@@ -1,0 +1,7034 @@
+{
+  "id": 1,
+  "website_id": 1,
+  "url": "https://24sevenoffice.com/no/regnskapsforer/tids-og-oppdragsstyring/",
+  "tag": {
+    "tags": {
+      "internal_links": [
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/f703473.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/7d3dfc2.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/c02d977.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/9261a76.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/476cd6e.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/f33df23.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/62b88b8.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/19cc9a0.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/_nuxt/150f3a6.js",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/se/",
+              "content": "Sverige"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/us/",
+              "content": "US"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/",
+              "content": "Om selskapet"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/investor-relations/",
+              "content": "Investor relations"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/media/",
+              "content": "Media"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontorer/",
+              "content": "Kontorer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/brand-guide/",
+              "content": "Brand guide"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/ledige-stillinger/",
+              "content": "Ledige stillinger"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontakt/",
+              "content": "Kontakt oss"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp-for-smb/",
+              "content": "SMB"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp-for-store-bedrifter/",
+              "content": "Store bedrifter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/",
+              "content": "Regnskapsbyr\u00e5er"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/pris/",
+              "content": "Priser"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/integrasjoner/",
+              "content": "Integrasjoner"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/investor-relations/",
+              "content": "Investor relations"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/blogg/",
+              "content": "Blogg"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kundehistorier/",
+              "content": "Kundehistorier"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/ressurser/guides/",
+              "content": "Guider"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/webinar/",
+              "content": "Webinarer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/",
+              "content": "ERP"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/regnskapsprogram/",
+              "content": "Regnskap"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/ai-bedrift/",
+              "content": "Regnskap med AI"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/fakturaprogram/",
+              "content": "Faktura"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/regnskapsprogram/lonnssystem/",
+              "content": "L\u00f8nn"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/crm/",
+              "content": "CRM"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/prosjektstyring/",
+              "content": "Prosjekt"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/timeregistrering/",
+              "content": "Timer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/rekruttering/",
+              "content": "Rekruttering"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/priser/",
+              "content": "Priser"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/integrasjoner/",
+              "content": "Integrasjoner"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/investor-relations/",
+              "content": "Investor relations"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/blogg/",
+              "content": "Blogg"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kundehistorier/",
+              "content": "Kundehistorier"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/ressurser/guides/",
+              "content": "Guider"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/webinar/",
+              "content": "Webinarer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/kurs/",
+              "content": "Kurs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://support.24sevenoffice.com/hc/no/",
+              "content": "Hjelpesenter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/blogg/",
+              "content": "Blogg"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kundehistorier/",
+              "content": "Kundehistorier"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/ressurser/guides/",
+              "content": "Guider"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/webinar/",
+              "content": "Webinarer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/kurs/",
+              "content": "Kurs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://support.24sevenoffice.com/hc/no/",
+              "content": "Hjelpesenter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://developer.24sevenoffice.com/",
+              "content": "API docs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/integrasjoner/",
+              "content": "Integrasjoner"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/investor-relations/",
+              "content": "Investor relations"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/pris/",
+              "content": "For bedrifter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/priser/",
+              "content": "For regnskapsbyr\u00e5er"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/trial/",
+              "content": "Pr\u00f8v gratis"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://app.24sevenoffice.com/login",
+              "content": "Login"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://app.24sevenoffice.com/scriptaspx/dashboard/",
+              "content": "Login"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp-for-smb/",
+              "content": "SMB"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp-for-store-bedrifter/",
+              "content": "Store bedrifter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/",
+              "content": "Regnskapsbyr\u00e5er"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/",
+              "content": "ERP"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/regnskapsprogram/",
+              "content": "Regnskap"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/ai-bedrift/",
+              "content": "Regnskap med AI"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/fakturaprogram/",
+              "content": "Faktura"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/regnskapsprogram/lonnssystem/",
+              "content": "L\u00f8nn"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/crm/",
+              "content": "CRM"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/prosjektstyring/",
+              "content": "Prosjekt"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/timeregistrering/",
+              "content": "Timer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/rekruttering/",
+              "content": "Rekruttering"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/blogg/",
+              "content": "Blogg"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kundehistorier/",
+              "content": "Kundehistorier"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/ressurser/guides/",
+              "content": "Guider"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/webinar/",
+              "content": "Webinarer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/kurs/",
+              "content": "Kurs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://support.24sevenoffice.com/hc/no/",
+              "content": "Hjelpesenter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://developer.24sevenoffice.com/",
+              "content": "API docs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/pris/",
+              "content": "For bedrifter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/priser/",
+              "content": "For regnskapsbyr\u00e5er"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/",
+              "content": "Om selskapet"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/investor-relations/",
+              "content": "Investor relations"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/media/",
+              "content": "Media"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontorer/",
+              "content": "Kontorer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/brand-guide/",
+              "content": "Brand guide"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/ledige-stillinger/",
+              "content": "Ledige stillinger"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontakt/",
+              "content": "Kontakt"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://help.24sevenoffice.com/nb/",
+              "content": "Hjelpesenter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/blogg/",
+              "content": "Blogg"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/se/",
+              "content": "Sverige"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/us/",
+              "content": "US"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/trial/",
+              "content": "Pr\u00f8v gratis"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/trial/",
+              "content": "Pr\u00f8v gratis"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/crm/",
+              "content": "CRM"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/produksjonssystem-regnskapsforer/",
+              "content": "produksjonssystemet"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/fleksibel-forretnings-og-inntjeningsmodell/",
+              "content": "Fleksibel forretnings og inntjeningsmodell"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/produksjonssystem-regnskapsforer/",
+              "content": "Produksjonssystem regnskapsf\u00f8rer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/integrasjon-mot-regnskapssystem/",
+              "content": "Integrasjon mot regnskapssystem"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/tids-og-oppdragsstyring/",
+              "content": "Tids og oppdragsstyring"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/skreddersy-arbeidsflyt/",
+              "content": "Skreddersy arbeidsflyt"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/bytte-regnskapssystem/",
+              "content": "Bytte regnskapssystem"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/bli-regnskapspartner/",
+              "content": "Bli en partner"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/revisor/",
+              "content": "Revisor"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/revisor/once/",
+              "content": "24SevenOffice ONCE \u2013 Bestillingsside"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/referanser/",
+              "content": "Referanser"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/pakker/",
+              "content": "Pakker"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/",
+              "content": "ERP"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/regnskapsprogram/",
+              "content": "Regnskap"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/ai-bedrift/",
+              "content": "Regnskap med AI"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/fakturaprogram/",
+              "content": "Faktura"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/lonnssystem/",
+              "content": "L\u00f8nn"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/crm/",
+              "content": "CRM"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/prosjektstyring/",
+              "content": "Prosjekt"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/erp/timeregistrering/",
+              "content": "Timer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/",
+              "content": "Byr\u00e5l\u00f8sning"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/regnskapssystem/",
+              "content": "Regnskapssystem"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/ai-assistant/",
+              "content": "AI Assistant"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/tids-og-oppdragsstyring/",
+              "content": "Oppdragsstyring"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/fleksibel-forretnings-og-inntjeningsmodell/",
+              "content": "Inntjeningsmodell"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/regnskapsforer/revisor/",
+              "content": "Revisor"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/",
+              "content": "Om selskapet"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontakt/",
+              "content": "Kontakt oss"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/investor-relations/",
+              "content": "Investor relations"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/media/",
+              "content": "Media"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontorer/",
+              "content": "Kontorer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/brand-guide/",
+              "content": "Brand guide"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/ledige-stillinger/",
+              "content": "Ledige stillinger"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/blogg/",
+              "content": "Blogg"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kundehistorier/",
+              "content": "Kundehistorier"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/ressurser/guides/",
+              "content": "Guider"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/webinar/",
+              "content": "Webinarer"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/kurs-og-webinar/kurs/",
+              "content": "Kurs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://help.24sevenoffice.com/nb/",
+              "content": "Hjelpesenter"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://developer.24sevenoffice.com",
+              "content": "API docs"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/terms//privacy-notice/",
+              "content": "Privacy notice"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/no/selskapet/kontakt/",
+              "content": "Kontakt oss"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.comtel:004724700000",
+              "content": "+47 247 00 000"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/terms/cla/",
+              "content": "vilk\u00e5r"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://24sevenoffice.com/terms/privacy-policy",
+              "content": "personvernregler"
+            }
+          ]
+        }
+      ],
+      "external_links": [
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://media-v3.24sevenoffice.com/global-assets/favicons/favicon.ico",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "tag_name": "link",
+              "link": "https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://nb-no.facebook.com/24SevenOffice/",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://www.linkedin.com/company/24sevenoffice",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://www.youtube.com/channel/UCSMjn4886qOzydF-gK5BstA",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://www.instagram.com/24sevenoffice/",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://apps.apple.com/no/app/24sevenoffice/id998420934",
+              "content": "iPhone"
+            }
+          ]
+        },
+        {
+          "a": [
+            {
+              "tag_name": "a",
+              "link": "https://play.google.com/store/apps/details?id=x24SevenOffice.x24SevenOffice",
+              "content": "Android"
+            }
+          ]
+        }
+      ]
+    },
+    "page_content": [
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "type": "image/x-icon"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "stylesheet"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "link": [
+          {
+            "tag_name": "link",
+            "rel": "preload"
+          }
+        ]
+      },
+      {
+        "noscript": [
+          {
+            "tag_name": "noscript",
+            "width": "0"
+          }
+        ]
+      },
+      {
+        "iframe": [
+          {
+            "tag_name": "iframe",
+            "width": "0"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--norway"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--sweden"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--usa"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "g": [
+          {
+            "tag_name": "g",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "polygon": [
+          {
+            "tag_name": "polygon",
+            "points": "101.26 8.94 102.93 8.94 106.8 19.77 106.8 19.77 110.62 8.94 112.17 8.94 107.56 21.27 106 21.27"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "data-v-3200a68c": ""
+          }
+        ]
+      },
+      {
+        "nav": [
+          {
+            "tag_name": "nav",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--mission-mamangment"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--ai-assistant"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--accountant"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--products-erp"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--accounting"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--ai-assistant"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--invoice"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--products-lonnssystem"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--crm"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--project"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--timer"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--recruiting"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "data-v-3c1ddad0": ""
+          }
+        ]
+      },
+      {
+        "nav": [
+          {
+            "tag_name": "nav",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TheBurger-pipe TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Burger__title--open Burger__title--normal"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Burger__title--close Burger__title--normal"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Burger__title--open Burger__title--normal"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Burger__slice TheBurger--normal"
+          }
+        ]
+      },
+      {
+        "nav": [
+          {
+            "tag_name": "nav",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--mission-mamangment"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--ai-assistant"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--accountant"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--products-erp"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--accounting"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--ai-assistant"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--invoice"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--products-lonnssystem"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--crm"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--project"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--timer"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--recruiting"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "footer": [
+          {
+            "tag_name": "footer",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "data-v-ae020f32": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "data-v-ae020f32": ""
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "data-v-ae020f32": ""
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "data-v-ae020f32": ""
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "data-v-ae020f32": ""
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "data-v-ae020f32": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--sweden"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarIcon TopbarIcon--usa"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "TopbarLabel__title"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "https://24sevenoffice.com/no/erp/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "main": [
+          {
+            "tag_name": "main",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "h1": [
+          {
+            "tag_name": "h1",
+            "class": "ContentTitle h1 ContentTitle--text-color-normal ContentTitle--text-align-center"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "ContentText ContentText--text-size-normal ContentText--text-color-normal ContentText--text-align-center"
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/trial/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "href": "https://24sevenoffice.com/no/regnskapsforer/produksjonssystem-regnskapsforer/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "https://24sevenoffice.com/no/erp/crm/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "https://24sevenoffice.com/no/regnskapsforer/produksjonssystem-regnskapsforer/"
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "img": [
+          {
+            "tag_name": "img",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "img": [
+          {
+            "tag_name": "img",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/fleksibel-forretnings-og-inntjeningsmodell/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/fleksibel-forretnings-og-inntjeningsmodell/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/produksjonssystem-regnskapsforer/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/produksjonssystem-regnskapsforer/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/integrasjon-mot-regnskapssystem/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/integrasjon-mot-regnskapssystem/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/tids-og-oppdragsstyring/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/tids-og-oppdragsstyring/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/skreddersy-arbeidsflyt/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/skreddersy-arbeidsflyt/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/bytte-regnskapssystem/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/bytte-regnskapssystem/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/bli-regnskapspartner/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/bli-regnskapspartner/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/revisor/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/revisor/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/revisor/once/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/revisor/once/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/referanser/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/referanser/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "href": "/no/regnskapsforer/pakker/"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "": ""
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "": ""
+          }
+        ]
+      },
+      {
+        "footer": [
+          {
+            "tag_name": "footer",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "h3": [
+          {
+            "tag_name": "h3",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "h3": [
+          {
+            "tag_name": "h3",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "h3": [
+          {
+            "tag_name": "h3",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "h3": [
+          {
+            "tag_name": "h3",
+            "class": "ContentTitle h3 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "data-v-501d89a1": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "ContentTitle h4 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "h4": [
+          {
+            "tag_name": "h4",
+            "class": "ContentTitle h4 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "ul": [
+          {
+            "tag_name": "ul",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "ContentTitle h4 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "h4": [
+          {
+            "tag_name": "h4",
+            "class": "ContentTitle h4 ContentTitle--text-color-normal ContentTitle--text-align-left"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "li": [
+          {
+            "tag_name": "li",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "svg": [
+          {
+            "tag_name": "svg",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "path": [
+          {
+            "tag_name": "path",
+            "fill": "currentColor"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "class": "Footer__label"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "button": [
+          {
+            "tag_name": "button",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "": ""
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "": ""
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "h2": [
+          {
+            "tag_name": "h2",
+            "class": "Overlay__title"
+          }
+        ]
+      },
+      {
+        "p": [
+          {
+            "tag_name": "p",
+            "class": "Overlay_text"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "form": [
+          {
+            "tag_name": "form",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "fieldset": [
+          {
+            "tag_name": "fieldset",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "for": "c2109b03-c1f8-4c5a-a290-2354bba6a0f1"
+          }
+        ]
+      },
+      {
+        "input": [
+          {
+            "tag_name": "input",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "for": "5bf6805b-4824-4462-99f1-552050ab8f17"
+          }
+        ]
+      },
+      {
+        "input": [
+          {
+            "tag_name": "input",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "for": "034f194c-d00d-4d3b-a1b3-6b0f5bc52bc1"
+          }
+        ]
+      },
+      {
+        "input": [
+          {
+            "tag_name": "input",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "for": "0a264613-207c-45a6-9558-efdd169f4256"
+          }
+        ]
+      },
+      {
+        "input": [
+          {
+            "tag_name": "input",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "for": "9114f035-0f19-4dfc-993b-69db218f6f0b"
+          }
+        ]
+      },
+      {
+        "input": [
+          {
+            "tag_name": "input",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "for": "3c0cc0c7-7165-4fe4-95f6-7bd228c13c86"
+          }
+        ]
+      },
+      {
+        "textarea": [
+          {
+            "tag_name": "textarea",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "input": [
+          {
+            "tag_name": "input",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "label": [
+          {
+            "tag_name": "label",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "a": [
+          {
+            "tag_name": "a",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "div": [
+          {
+            "tag_name": "div",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "button": [
+          {
+            "tag_name": "button",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "span": [
+          {
+            "tag_name": "span",
+            "": ""
+          }
+        ]
+      },
+      {
+        "iframe": [
+          {
+            "tag_name": "iframe",
+            "width": "0"
+          }
+        ]
+      },
+      {
+        "img": [
+          {
+            "tag_name": "img",
+            "width": "1"
+          }
+        ]
+      },
+      {
+        "img": [
+          {
+            "tag_name": "img",
+            "width": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "schema": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "url": null,
+    "image": {
+      "url": null,
+      "secure_url": null,
+      "type": null,
+      "width": null,
+      "height": null,
+      "alt": null
+    }
+  },
+  "twitter": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": null,
+      "alt": null
+    }
+  },
+  "article": {
+    "publisher": null,
+    "author": null
+  },
+  "status_code": null,
+  "last_scraped": null,
+  "header": {
+    "viewport": null,
+    "charset": null,
+    "language": null
+  },
+  "content": {
+    "number_internal_links": null,
+    "number_external_links": null,
+    "text_length": null
+  }
+}
