@@ -108,6 +108,8 @@ def scrape_selenium(content, json_template):
     print('===============================')
     json_template['tag']['tags'] = data
     json_template['tag']['page_content'] = data_of_tag
+    json_template['content']['number_internal_links'] = len(json_template['tag']['tags']['internal_links'])
+    json_template['content']['number_external_links'] = len(json_template['tag']['tags']['external_links'])
     with open('data.json', 'w') as file:
         json.dump(json_template, file)
     print(json_template)

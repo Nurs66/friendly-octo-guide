@@ -752,21 +752,10 @@
           "link": "https://play.google.com/store/apps/details?id=x24SevenOffice.x24SevenOffice",
           "content": "Android"
         }
-      ],
-      "content": {
-        "number_internal_links": 141,
-        "number_external_links": 8
-      }
+      ]
     },
     "page_content": {
       "link": [
-        {
-          "tag_name": "link",
-          "data-n-head": "ssr",
-          "href": "https://media-v3.24sevenoffice.com/global-assets/favicons/favicon.ico",
-          "rel": "icon",
-          "type": "image/x-icon"
-        },
         {
           "tag_name": "link",
           "data-n-head": "ssr",
@@ -1829,8 +1818,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "8674f03d-4521-40c6-9434-8bc7bcd82d33",
-          "id": "8674f03d-4521-40c6-9434-8bc7bcd82d33",
+          "for": "1d3062fd-5240-49d3-a791-16d5784fb229",
+          "id": "1d3062fd-5240-49d3-a791-16d5784fb229",
           "name": "surname",
           "type": "text",
           "value": ""
@@ -1838,8 +1827,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "e862a1b5-9a9a-4625-bd4a-32dff25479bf",
-          "id": "e862a1b5-9a9a-4625-bd4a-32dff25479bf",
+          "for": "6ac7be47-4431-474e-9837-01372eec1f5c",
+          "id": "6ac7be47-4431-474e-9837-01372eec1f5c",
           "name": "firstname",
           "type": "text",
           "value": ""
@@ -1847,8 +1836,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "8674f03d-4521-40c6-9434-8bc7bcd82d33",
-          "id": "8674f03d-4521-40c6-9434-8bc7bcd82d33",
+          "for": "1d3062fd-5240-49d3-a791-16d5784fb229",
+          "id": "1d3062fd-5240-49d3-a791-16d5784fb229",
           "name": "surname",
           "type": "text",
           "value": ""
@@ -1856,8 +1845,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "3fccdd5f-5e7c-4651-999b-5a5a318109c7",
-          "id": "3fccdd5f-5e7c-4651-999b-5a5a318109c7",
+          "for": "326b0f64-e078-465a-93e5-208deacf615c",
+          "id": "326b0f64-e078-465a-93e5-208deacf615c",
           "name": "email",
           "type": "email",
           "value": ""
@@ -1865,8 +1854,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "95d60f58-aff6-410d-a941-4eb1e89b01d6",
-          "id": "95d60f58-aff6-410d-a941-4eb1e89b01d6",
+          "for": "a3527efe-9b9c-4372-a71c-5bdc1855db19",
+          "id": "a3527efe-9b9c-4372-a71c-5bdc1855db19",
           "name": "company",
           "type": "text",
           "value": ""
@@ -1874,8 +1863,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "18260e59-55ed-41d6-a582-9063ee80d90d",
-          "id": "18260e59-55ed-41d6-a582-9063ee80d90d",
+          "for": "b9c1ff93-2435-4e8a-9fb1-9484f7604e16",
+          "id": "b9c1ff93-2435-4e8a-9fb1-9484f7604e16",
           "name": "phone",
           "type": "tel",
           "value": ""
@@ -1883,8 +1872,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "95d60f58-aff6-410d-a941-4eb1e89b01d6",
-          "id": "95d60f58-aff6-410d-a941-4eb1e89b01d6",
+          "for": "a3527efe-9b9c-4372-a71c-5bdc1855db19",
+          "id": "a3527efe-9b9c-4372-a71c-5bdc1855db19",
           "name": "company",
           "type": "text",
           "value": ""
@@ -1892,8 +1881,8 @@
         {
           "tag_name": "div",
           "class": "",
-          "for": "a1bd8dbf-6f54-454d-a178-8c8836d00889",
-          "id": "a1bd8dbf-6f54-454d-a178-8c8836d00889",
+          "for": "0390fe2f-17ab-4015-bbb9-5d176b0449a7",
+          "id": "0390fe2f-17ab-4015-bbb9-5d176b0449a7",
           "name": "comment",
           "placeholder": ""
         },
@@ -5419,32 +5408,32 @@
         {
           "tag_name": "label",
           "class": "",
-          "for": "e862a1b5-9a9a-4625-bd4a-32dff25479bf"
+          "for": "6ac7be47-4431-474e-9837-01372eec1f5c"
         },
         {
           "tag_name": "label",
           "class": "",
-          "for": "8674f03d-4521-40c6-9434-8bc7bcd82d33"
+          "for": "1d3062fd-5240-49d3-a791-16d5784fb229"
         },
         {
           "tag_name": "label",
           "class": "",
-          "for": "3fccdd5f-5e7c-4651-999b-5a5a318109c7"
+          "for": "326b0f64-e078-465a-93e5-208deacf615c"
         },
         {
           "tag_name": "label",
           "class": "",
-          "for": "18260e59-55ed-41d6-a582-9063ee80d90d"
+          "for": "b9c1ff93-2435-4e8a-9fb1-9484f7604e16"
         },
         {
           "tag_name": "label",
           "class": "",
-          "for": "95d60f58-aff6-410d-a941-4eb1e89b01d6"
+          "for": "a3527efe-9b9c-4372-a71c-5bdc1855db19"
         },
         {
           "tag_name": "label",
           "class": "",
-          "for": "a1bd8dbf-6f54-454d-a178-8c8836d00889"
+          "for": "0390fe2f-17ab-4015-bbb9-5d176b0449a7"
         },
         {
           "tag_name": "label",
@@ -5458,7 +5447,7 @@
         {
           "tag_name": "input",
           "class": "",
-          "id": "e862a1b5-9a9a-4625-bd4a-32dff25479bf",
+          "id": "6ac7be47-4431-474e-9837-01372eec1f5c",
           "name": "firstname",
           "type": "text",
           "value": ""
@@ -5466,7 +5455,7 @@
         {
           "tag_name": "input",
           "class": "",
-          "id": "8674f03d-4521-40c6-9434-8bc7bcd82d33",
+          "id": "1d3062fd-5240-49d3-a791-16d5784fb229",
           "name": "surname",
           "type": "text",
           "value": ""
@@ -5474,7 +5463,7 @@
         {
           "tag_name": "input",
           "class": "",
-          "id": "3fccdd5f-5e7c-4651-999b-5a5a318109c7",
+          "id": "326b0f64-e078-465a-93e5-208deacf615c",
           "name": "email",
           "type": "email",
           "value": ""
@@ -5482,7 +5471,7 @@
         {
           "tag_name": "input",
           "class": "",
-          "id": "18260e59-55ed-41d6-a582-9063ee80d90d",
+          "id": "b9c1ff93-2435-4e8a-9fb1-9484f7604e16",
           "name": "phone",
           "type": "tel",
           "value": ""
@@ -5490,7 +5479,7 @@
         {
           "tag_name": "input",
           "class": "",
-          "id": "95d60f58-aff6-410d-a941-4eb1e89b01d6",
+          "id": "a3527efe-9b9c-4372-a71c-5bdc1855db19",
           "name": "company",
           "type": "text",
           "value": ""
@@ -5507,7 +5496,7 @@
         {
           "tag_name": "textarea",
           "class": "",
-          "id": "a1bd8dbf-6f54-454d-a178-8c8836d00889",
+          "id": "0390fe2f-17ab-4015-bbb9-5d176b0449a7",
           "name": "comment",
           "placeholder": ""
         }
@@ -5548,8 +5537,8 @@
     "language": null
   },
   "content": {
-    "number_internal_links": null,
-    "number_external_links": null,
+    "number_internal_links": 141,
+    "number_external_links": 8,
     "text_length": null
   }
 }

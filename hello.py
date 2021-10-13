@@ -27,11 +27,6 @@ def check_link_url_with_text(links, domain):
     result_dict = {
         'internal_links': [],
         'external_links': [],
-        "content": {
-            "number_internal_links": None,
-            "number_external_links": None,
-        }
-
     }
     get_links = [i.get('href') for i in links]
     get_texts = [link.get_text().strip() for link in links]
@@ -46,8 +41,6 @@ def check_link_url_with_text(links, domain):
         else:
             data = {'tag_name': tag_name.name, 'link': link, 'content': text}
             result_dict['external_links'].append(data)
-    result_dict['content']['number_internal_links'] = len(result_dict['internal_links'])
-    result_dict['content']['number_external_links'] = len(result_dict['external_links'])
     return result_dict
 
 
