@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-from hello import check_link_url_with_text, get_page_source
+from hello import check_link_url_with_text, get_page_source, connect_list
 
 JSON_TEMPLATE = {
     "id": None,
@@ -86,29 +86,28 @@ def scrape_selenium(content, json_template):
         return raw_str.split('=')[0].strip('"')
 
     some_lst = []
+    list_of_tags = []
     for tag in data_page:
         key = ''
         value = ''
         property_list = re.findall(r'\S*="[^=]*"', str(tag))
+        dict_lst = {
+            'tag_name': tag.name,
+        }
         for prop in property_list:
             key = clear_property_key(prop)
             value = clear_property(prop)
+            dict_lst[key] = value
 
-        dict_page_source = {
-            tag.name: []
-        }
+        some_lst.append(dict_lst)
+        list_of_tags.append(tag.name)
 
-        tag_data_dict = {
-            'tag_name': tag.name,
-            key: value
-        }
-        dict_page_source[tag.name].append(tag_data_dict)
-        some_lst.append(dict_page_source)
+    data_of_tag = connect_list(list_of_tags, some_lst)
 
     data = check_link_url_with_text(tag_a, domain)
     print('===============================')
     json_template['tag']['tags'] = data
-    json_template['tag']['page_content'] = some_lst
+    json_template['tag']['page_content'] = data_of_tag
     with open('data.json', 'w') as file:
         json.dump(json_template, file)
     print(json_template)

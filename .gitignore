@@ -3,6 +3,8 @@ crm/files/
 crm/images/
 /env
 env
+chromedriver
+data.json
 __pycache__/
 *.py[cod]
 *$py.class
