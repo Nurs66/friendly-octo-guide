@@ -83,8 +83,7 @@ def second_part_schema_data(schema_list):
 
 def get_schema_data(schema_list):
     lst_data = []
-    get_only_dict = [link.get_text().strip() for link in schema_list]
-    for i in get_only_dict:
+    for i in schema_list:
         try:
             result_json = json.loads(i)
             dict_data = {

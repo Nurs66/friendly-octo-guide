@@ -75,8 +75,9 @@ html_source = driver.page_source
 def scrape_schema(content, json_template):
     soup = BeautifulSoup(content, 'html.parser')
     schema_html = soup.findAll('script', {'type': 'application/ld+json'})
-
-    schema_data = get_schema_data(schema_html)
+    get_only_dict = [link.get_text().strip() for link in schema_html]
+    print(get_only_dict)
+    schema_data = get_schema_data(get_only_dict)
     json_template['schema'] = schema_data
     with open('data.json', 'w') as file:
         json.dump(json_template, file)
@@ -84,5 +85,4 @@ def scrape_schema(content, json_template):
 
 
 template = scrape_selenium(html_source, JSON_TEMPLATE)
-
 scrape_schema(html_source, template)

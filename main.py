@@ -79,10 +79,6 @@ def scrape_selenium(content, json_template):
     all_tag_name = list(all_html for all_html in soup.find_all())
     data_page = get_page_source(all_tag_name)
 
-    schema_html = soup.findAll('script', {'type': 'application/ld+json'})
-
-    schema_data = get_schema_data(schema_html)
-
     def clear_property(raw_str):
         return raw_str.split('=')[1].strip('"')
 
@@ -112,7 +108,6 @@ def scrape_selenium(content, json_template):
     print('===============================')
     json_template['tag']['tags'] = data
     json_template['tag']['page_content'] = data_of_tag
-    json_template['schema'] = schema_data
     json_template['content']['number_internal_links'] = len(json_template['tag']['tags']['internal_links'])
     json_template['content']['number_external_links'] = len(json_template['tag']['tags']['external_links'])
     with open('data.json', 'w') as file:
