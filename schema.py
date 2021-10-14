@@ -6,13 +6,19 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 from hello import get_schema_data
+from main import scrape_selenium
 
 JSON_TEMPLATE = {
     "id": None,
     "website_id": None,
     "url": None,
     "tag": {
-        'tags': None
+        "tags": None,
+        "title": None,
+        "description": None,
+        # "h1": None,
+        "canonical": None,
+        "robots": []
     },
     "schema": None,
     "og": {
@@ -54,7 +60,7 @@ JSON_TEMPLATE = {
     }
 }
 
-BASE_URL = 'https://www.akademikliniken.no/hva-vi-gjor/intimkirurgi/kjonnsleppeoperasjon/'
+BASE_URL = 'https://www.akademikliniken.no/hva-vi-gjor/har/hartap/'
 options = Options()
 options.headless = True
 options.add_argument('--ignore-certificate-errors')
@@ -77,4 +83,6 @@ def scrape_schema(content, json_template):
     print(json_template)
 
 
-scrape_schema(html_source, JSON_TEMPLATE)
+template = scrape_selenium(html_source, JSON_TEMPLATE)
+
+scrape_schema(html_source, template)
