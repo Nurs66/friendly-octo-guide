@@ -64,19 +64,40 @@ def connect_list(list_of_tag, result_list):
     return dictOfWords
 
 
+def second_part_schema_data(schema_list):
+    lst_data = []
+    json_decond = json.loads(schema_list)
+    for j in json_decond:
+        dict_data = {
+            '@context': j.get('@context', None),
+            '@type': j.get('@type', None),
+            'name': j.get('name', None),
+            'author': j.get('author', None),
+            'datePublished': j.get('datePublished', None),
+            'description': j.get('description', None),
+            'prepTime': j.get('prepTime', None),
+        }
+        lst_data.append(dict_data)
+    return lst_data
+
+
 def get_schema_data(schema_list):
     lst_data = []
     get_only_dict = [link.get_text().strip() for link in schema_list]
     for i in get_only_dict:
-        result_json = json.loads(i)
-        dict_data = {
-            '@context': result_json.get('@context', None),
-            '@type': result_json.get('@type', None),
-            'name': result_json.get('name', None),
-            'author': result_json.get('author', None),
-            'datePublished': result_json.get('datePublished', None),
-            'description': result_json.get('description', None),
-            'prepTime': result_json.get('prepTime', None),
-        }
-        lst_data.append(dict_data)
+        try:
+            result_json = json.loads(i)
+            dict_data = {
+                '@context': result_json.get('@context', None),
+                '@type': result_json.get('@type', None),
+                'name': result_json.get('name', None),
+                'author': result_json.get('author', None),
+                'datePublished': result_json.get('datePublished', None),
+                'description': result_json.get('description', None),
+                'prepTime': result_json.get('prepTime', None),
+            }
+            lst_data.append(dict_data)
+        except Exception as e:
+            second = second_part_schema_data(i)
+            return second
     return lst_data

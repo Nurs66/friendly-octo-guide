@@ -54,7 +54,7 @@ JSON_TEMPLATE = {
     }
 }
 
-BASE_URL = 'https://24sevenoffice.com/no/regnskapsforer/tids-og-oppdragsstyring/'
+BASE_URL = 'https://www.akademikliniken.no/hva-vi-gjor/intimkirurgi/kjonnsleppeoperasjon/'
 options = Options()
 options.headless = True
 options.add_argument('--ignore-certificate-errors')
